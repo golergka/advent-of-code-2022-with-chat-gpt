@@ -9,6 +9,6 @@ All the puzzles are copied and pasted to ChatGPT interface, and the solutions ar
 ## Results
 
 - [Day 1](./day_1/README.md): Solved at third try
-- [Day 2](./day_2/README.md): Not solved (provided the same erroneous solution twice in a row)
+- [Day 2](./day_2/README.md): Not solved yet, working on providing hints to ChatGPT
 
 (Most of this README was written by Github copilot).
