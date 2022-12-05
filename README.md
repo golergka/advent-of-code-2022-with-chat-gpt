@@ -9,6 +9,7 @@ All the puzzles are copied and pasted to the ChatGPT interface, and the solution
 ## Results
 
 - [Day 1](./day_1/README.md): Solved at third try
-- [Day 2](./day_2/README.md): Not solved yet, working on providing hints to ChatGPT
+- [Day 2](./day_2/README.md)
+  - Solved part one at 12th try, with hints from developer. Had to re-start chat after it became unresponsive.
 
 (Most of this README was written by Github copilot).

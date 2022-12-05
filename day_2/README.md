@@ -891,3 +891,5 @@ print(total_score)
 In this solution, we first create a dictionary called moves that maps each letter to the corresponding move. We then use this dictionary to map the values of the opponent's moves and your moves from the letters A, B, C and X, Y, Z to the corresponding moves rock, paper and scissors.
 
 We then use these mapped values to determine the outcome of a round and calculate the total score. This should give the correct answer for the puzzle.
+
+*(This version finally produced the right answer)*
